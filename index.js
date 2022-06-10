@@ -13,7 +13,7 @@ let sayiUret, counter;
 
 function generateNumber() {
     sayiUret = Math.floor(Math.random() * 99 + 1);
-    console.log(sayiUret);
+//     console.log(sayiUret);
 }
 
 function changeResetButtonVisibility(visibility) {
